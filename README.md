@@ -1,6 +1,6 @@
 # Venom Music 
 
-<h1 align="centre">DAISYXMUSIC  🎵</h1>
+<h1 align="centre">VENOM MUSIC  🎵</h1>
 
 
 
