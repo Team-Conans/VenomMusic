@@ -41,3 +41,13 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Team-Conans/VenomMusic)
 
+
+# Credits
+
+* Error-Shivansh
+* Programming-error
+* Inuka Asith
+* Hellboy-Aaryan
+* Hellboi-Atul
+* KeinShin
+
