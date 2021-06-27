@@ -44,10 +44,10 @@
 
 # Credits
 
-* Error-Shivansh
-* Programming-error
-* Inuka Asith
-* Hellboy-Aaryan
-* Hellboi-Atul
-* KeinShin
+* Error-Shivansh (https://github.com/Error-Shivansh)
+* Programming-error (https://github.com/Programming-error)
+* Inuka Asith (https://github.com/InukaASiTH)
+* Hellboy-Aaryan (https://github.com/Hellboy-Aaryan)
+* Hellboi-Atul (https://github.com/Hellboi-atul)
+* KeinShin (https://github.com/KeinShin)
 
