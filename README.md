@@ -45,7 +45,7 @@
 # Credits
 
 * Error-Shivansh
-* Programming-error
+* Sipak 
 * Inuka Asith
 * Hellboy-Aaryan
 * Hellboi-Atul
